@@ -17,6 +17,46 @@
 		08B51A992898F26300630FFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51A6F2898F26100630FFA /* ContentView.swift */; };
 		08B51A9A2898F26300630FFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08B51A702898F26300630FFA /* Assets.xcassets */; };
 		08B51A9B2898F26300630FFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08B51A702898F26300630FFA /* Assets.xcassets */; };
+		08B51ABE2898F7B100630FFA /* MyCalendarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */; };
+		08B51ABF2898F7B100630FFA /* MyCalendarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */; };
+		08B51AC02898F7B100630FFA /* MyCalendarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */; };
+		08B51AC12898F7B100630FFA /* MyCalendarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */; };
+		08B51AE4289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */; };
+		08B51AE5289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */; };
+		08B51AE6289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */; };
+		08B51AE7289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */; };
+		08B51AE9289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */; };
+		08B51AEA289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */; };
+		08B51AEB289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */; };
+		08B51AEC289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */; };
+		08B51AF3289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */; };
+		08B51AF4289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */; };
+		08B51AF5289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */; };
+		08B51AF6289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */; };
+		08B51AF8289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */; };
+		08B51AF9289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */; };
+		08B51AFA289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */; };
+		08B51AFB289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */; };
+		08B51AFD289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */; };
+		08B51AFE289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */; };
+		08B51AFF289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */; };
+		08B51B00289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */; };
+		08B51B02289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */; };
+		08B51B03289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */; };
+		08B51B04289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */; };
+		08B51B05289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */; };
+		08B51B08289A4D7500630FFA /* MyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B07289A4D7500630FFA /* MyCalendarView.swift */; };
+		08B51B09289A4D7500630FFA /* MyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B07289A4D7500630FFA /* MyCalendarView.swift */; };
+		08B51B0A289A4D7500630FFA /* MyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B07289A4D7500630FFA /* MyCalendarView.swift */; };
+		08B51B0B289A4D7500630FFA /* MyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B07289A4D7500630FFA /* MyCalendarView.swift */; };
+		08B51B0D289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */; };
+		08B51B0E289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */; };
+		08B51B0F289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */; };
+		08B51B10289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */; };
+		08B51B13289A636600630FFA /* MyCalendarFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B12289A636600630FFA /* MyCalendarFormatter.swift */; };
+		08B51B14289A636600630FFA /* MyCalendarFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B12289A636600630FFA /* MyCalendarFormatter.swift */; };
+		08B51B15289A636600630FFA /* MyCalendarFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B12289A636600630FFA /* MyCalendarFormatter.swift */; };
+		08B51B16289A636600630FFA /* MyCalendarFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B51B12289A636600630FFA /* MyCalendarFormatter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +89,16 @@
 		08B51A8E2898F26300630FFA /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08B51A922898F26300630FFA /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		08B51A942898F26300630FFA /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarConfig.swift; sourceTree = "<group>"; };
+		08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarGenerator.swift; sourceTree = "<group>"; };
+		08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarComponents.swift; sourceTree = "<group>"; };
+		08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarMonthYearPickerViewModel.swift; sourceTree = "<group>"; };
+		08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarMonthYearPickerView.swift; sourceTree = "<group>"; };
+		08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarPickerData.swift; sourceTree = "<group>"; };
+		08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarMonthYearData.swift; sourceTree = "<group>"; };
+		08B51B07289A4D7500630FFA /* MyCalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarView.swift; sourceTree = "<group>"; };
+		08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarViewModel.swift; sourceTree = "<group>"; };
+		08B51B12289A636600630FFA /* MyCalendarFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarFormatter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +149,7 @@
 			children = (
 				08B51A6E2898F26100630FFA /* MyCustomCalendarApp.swift */,
 				08B51A6F2898F26100630FFA /* ContentView.swift */,
+				08B51AAD2898F55E00630FFA /* MyCalendar */,
 				08B51A702898F26300630FFA /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -139,6 +190,39 @@
 				08B51A942898F26300630FFA /* Tests_macOSLaunchTests.swift */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		08B51AAD2898F55E00630FFA /* MyCalendar */ = {
+			isa = PBXGroup;
+			children = (
+				08B51ABD2898F7B100630FFA /* MyCalendarConfig.swift */,
+				08B51AE3289A3ED700630FFA /* MyCalendarGenerator.swift */,
+				08B51AE8289A3FAF00630FFA /* MyCalendarComponents.swift */,
+				08B51B12289A636600630FFA /* MyCalendarFormatter.swift */,
+				08B51B11289A4D9600630FFA /* Calendar */,
+				08B51B06289A4D2700630FFA /* Picker */,
+			);
+			path = MyCalendar;
+			sourceTree = "<group>";
+		};
+		08B51B06289A4D2700630FFA /* Picker */ = {
+			isa = PBXGroup;
+			children = (
+				08B51AFC289A42FF00630FFA /* MyCalendarPickerData.swift */,
+				08B51B01289A446500630FFA /* MyCalendarMonthYearData.swift */,
+				08B51AF7289A41E800630FFA /* MyCalendarMonthYearPickerView.swift */,
+				08B51AF2289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift */,
+			);
+			path = Picker;
+			sourceTree = "<group>";
+		};
+		08B51B11289A4D9600630FFA /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				08B51B07289A4D7500630FFA /* MyCalendarView.swift */,
+				08B51B0C289A4D7E00630FFA /* MyCalendarViewModel.swift */,
+			);
+			path = Calendar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,8 +383,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B51AF8289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */,
+				08B51B02289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */,
+				08B51AE4289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */,
+				08B51AFD289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */,
 				08B51A982898F26300630FFA /* ContentView.swift in Sources */,
+				08B51AF3289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */,
+				08B51B08289A4D7500630FFA /* MyCalendarView.swift in Sources */,
 				08B51A962898F26300630FFA /* MyCustomCalendarApp.swift in Sources */,
+				08B51B13289A636600630FFA /* MyCalendarFormatter.swift in Sources */,
+				08B51ABE2898F7B100630FFA /* MyCalendarConfig.swift in Sources */,
+				08B51B0D289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */,
+				08B51AE9289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,8 +402,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B51AF9289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */,
+				08B51B03289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */,
+				08B51AE5289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */,
+				08B51AFE289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */,
 				08B51A992898F26300630FFA /* ContentView.swift in Sources */,
+				08B51AF4289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */,
+				08B51B09289A4D7500630FFA /* MyCalendarView.swift in Sources */,
 				08B51A972898F26300630FFA /* MyCustomCalendarApp.swift in Sources */,
+				08B51B14289A636600630FFA /* MyCalendarFormatter.swift in Sources */,
+				08B51ABF2898F7B100630FFA /* MyCalendarConfig.swift in Sources */,
+				08B51B0E289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */,
+				08B51AEA289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,8 +421,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B51AFA289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */,
+				08B51B04289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */,
+				08B51AE6289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */,
+				08B51AFF289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */,
 				08B51A892898F26300630FFA /* Tests_iOSLaunchTests.swift in Sources */,
+				08B51AF5289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */,
+				08B51B0A289A4D7500630FFA /* MyCalendarView.swift in Sources */,
 				08B51A872898F26300630FFA /* Tests_iOS.swift in Sources */,
+				08B51B15289A636600630FFA /* MyCalendarFormatter.swift in Sources */,
+				08B51AC02898F7B100630FFA /* MyCalendarConfig.swift in Sources */,
+				08B51B0F289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */,
+				08B51AEB289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,8 +440,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08B51AFB289A41E800630FFA /* MyCalendarMonthYearPickerView.swift in Sources */,
+				08B51B05289A446500630FFA /* MyCalendarMonthYearData.swift in Sources */,
+				08B51AE7289A3ED700630FFA /* MyCalendarGenerator.swift in Sources */,
+				08B51B00289A42FF00630FFA /* MyCalendarPickerData.swift in Sources */,
 				08B51A952898F26300630FFA /* Tests_macOSLaunchTests.swift in Sources */,
+				08B51AF6289A41DA00630FFA /* MyCalendarMonthYearPickerViewModel.swift in Sources */,
+				08B51B0B289A4D7500630FFA /* MyCalendarView.swift in Sources */,
 				08B51A932898F26300630FFA /* Tests_macOS.swift in Sources */,
+				08B51B16289A636600630FFA /* MyCalendarFormatter.swift in Sources */,
+				08B51AC12898F7B100630FFA /* MyCalendarConfig.swift in Sources */,
+				08B51B10289A4D7E00630FFA /* MyCalendarViewModel.swift in Sources */,
+				08B51AEC289A3FAF00630FFA /* MyCalendarComponents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
