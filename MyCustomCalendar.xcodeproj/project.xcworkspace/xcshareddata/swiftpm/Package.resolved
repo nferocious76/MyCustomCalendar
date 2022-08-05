@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mycalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nferocious76/MyCalendar",
+      "state" : {
+        "revision" : "81fd6ced9561255645f4bdad9884e87290c0c96e",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
