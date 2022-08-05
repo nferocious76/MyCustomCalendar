@@ -18,7 +18,7 @@ public struct MyCalendarMonthYearData: Identifiable, Hashable {
     self.year = year
   }
   
-  var monthYearTitle: String { // MMMMyyyy
+  public var monthYearTitle: String { // MMMMyyyy
     return "\(month.title) \(year.title)"
   }
   

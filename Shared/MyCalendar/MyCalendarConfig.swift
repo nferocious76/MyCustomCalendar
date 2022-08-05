@@ -5,7 +5,6 @@
 //  Created by Neil Francis Hipona on 8/2/22.
 //
 
-import Foundation
 import SwiftUI
 
 // MARK: - Calendar Config

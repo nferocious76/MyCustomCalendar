@@ -12,14 +12,14 @@ public class MyCalendarMonthYearPickerViewModel: ObservableObject {
   let config: MyCalendarPickerConfig
   let generator: MyCalendarGenerator
   
-  @Published var monthYear: MyCalendarMonthYearData
+  @Published public var monthYear: MyCalendarMonthYearData
   let monthsData: [MyCalendarPickerData<Int>]
   let yearsData: [MyCalendarPickerData<Int>]
   let isPickerEnabled: Bool
   
-  let monthYearPublisher = PassthroughSubject<MyCalendarMonthYearData, Never>()
+  public let monthYearPublisher = PassthroughSubject<MyCalendarMonthYearData, Never>()
   
-  init(config: MyCalendarPickerConfig,
+  public init(config: MyCalendarPickerConfig,
        generator: MyCalendarGenerator,
        monthYear: MyCalendarMonthYearData,
        isPickerEnabled: Bool = true) {

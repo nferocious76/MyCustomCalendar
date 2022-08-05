@@ -30,7 +30,7 @@ public class MyCalendarViewModel: ObservableObject {
   private let enableFutureDateOnCurrentMonth: Bool
   private var cancellables = Set<AnyCancellable>()
   
-  init(config: MyCalendarConfig,
+  public init(config: MyCalendarConfig,
        generator: MyCalendarGenerator,
        pickerModel: MyCalendarMonthYearPickerViewModel,
        

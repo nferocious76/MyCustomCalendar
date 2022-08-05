@@ -16,7 +16,7 @@ public struct MyCalendarView: View {
   @State private var activeDatesPage: Int = 1
   @GestureState private var isGestureFinished = true
   
-  init(model: MyCalendarViewModel, geometry: GeometryProxy, padding: CGFloat = 16) {
+  public init(model: MyCalendarViewModel, geometry: GeometryProxy, padding: CGFloat = 16) {
     self.model = model
     self.geometry = geometry
     self.padding = padding
