@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nferocious76/MyCalendar",
       "state" : {
-        "revision" : "81fd6ced9561255645f4bdad9884e87290c0c96e",
-        "version" : "0.0.1"
+        "revision" : "06903670310d6fda42cd2a5458dc26b7245d5427",
+        "version" : "0.0.2"
       }
     }
   ],
